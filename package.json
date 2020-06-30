@@ -37,7 +37,7 @@
     "uuid": "^8.1.0",
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "bcrypt-nodejs": "0.0.3"
   }
 }
